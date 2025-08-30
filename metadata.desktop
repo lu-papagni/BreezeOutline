@@ -1,0 +1,21 @@
+[ContrastEffect]
+contrast=0.2
+enabled=true
+intensity=2.0
+saturation=1.7
+
+[Desktop Entry]
+Name=BreezeOutline Transparent
+X-KDE-PluginInfo-Author=Luca
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=papagniluca4@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=
+X-KDE-PluginInfo-Name=BreezeOutlineTransparent
+X-KDE-PluginInfo-Version=1.0.4
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[Settings]
+FallbackTheme=default
